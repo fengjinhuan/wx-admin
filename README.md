@@ -12,5 +12,5 @@
 ## 主要功能
 ### 登录注册;账号验证
 ### 商品增删改查
-### weixin_express 后台页面
+### wx-demo 小程序         element-starter 商家录入后台
 
