@@ -12,5 +12,7 @@
 ## 主要功能
 ### 登录注册;账号验证
 ### 商品增删改查
-### wx-demo 小程序         element-starter 商家录入后台
+### [wx-demo 小程序](http://blog.csdn.net/guodongxiaren)         
+
+   [element-starter 商家录入后台]
 
