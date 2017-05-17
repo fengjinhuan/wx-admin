@@ -1,4 +1,4 @@
-# wx-admin
+(# wx-admin
 ## 基于express mongoose 搭建的后台
 ## npm install express -g
 ## express "文件名"
@@ -12,7 +12,7 @@
 ## 主要功能
 ### 登录注册;账号验证
 ### 商品增删改查
-### [wx-demo 小程序](http://blog.csdn.net/guodongxiaren)         
+### [wx-demo 小程序](https://github.com/fengjinhuan/wx-demo)         
 
-   [element-starter 商家录入后台]
+   [element-starter 商家录入后台](https://github.com/fengjinhuan/element-starter)
 
